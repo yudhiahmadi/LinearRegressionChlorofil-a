@@ -24,3 +24,4 @@ Prediksi Nilai Klorofil menggunaan metode Linear Regression Sklearn
 13. Cek distribusi data,R2, intercepts, dan koefisien
 14. Test prediksi data dan buat persen perbedaan
 
+#### sumberdata: marine.copernicus.eu
